@@ -1,0 +1,666 @@
+{
+    "C:/Users/Adria/OneDrive/Imágenes/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg": {
+        "file_info": {
+            "filename": "evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg",
+            "filename_without_extension": "evgeny-tchebotarev-aiwuLjLPFnU-unsplash",
+            "filepath": "C:/Users/Adria/OneDrive/Imágenes/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg",
+            "directory": "C:/Users/Adria/OneDrive/Imágenes",
+            "drive": "C:",
+            "file_extension": "JPG",
+            "file_format": "JPG"
+        },
+        "file_size": {
+            "bytes": 6502087,
+            "kilobytes": 6349.69,
+            "megabytes": 6.2,
+            "gigabytes": 0.0061,
+            "human_readable": "6.2 MB",
+            "category": "Grande"
+        },
+        "image_dimensions": {
+            "width_pixels": 6939,
+            "height_pixels": 4631,
+            "resolution": "6939x4631",
+            "total_pixels": 32134509,
+            "megapixels": 32.13,
+            "resolution_category": "Ultra alta resolución (8K+)"
+        },
+        "aspect_ratio": {
+            "decimal": 1.4984,
+            "ratio": "6939:4631",
+            "orientation": "Horizontal (Landscape)",
+            "is_landscape": true,
+            "is_portrait": false,
+            "is_square": false
+        },
+        "color_info": {
+            "bits_per_pixel": 32,
+            "has_alpha_channel": false,
+            "color_depth": "32 bits"
+        },
+        "timestamps": {
+            "metadata_created": "2025-11-26 07:25:11",
+            "file_modified": "2025-11-09 21:40:27",
+            "file_accessed": "2025-11-26 07:25:11",
+            "file_created_system": "2025-11-12 07:22:06",
+            "unix_timestamp_modified": 1762746027,
+            "unix_timestamp_accessed": 1764163511
+        },
+        "system_info": {
+            "file_mode": "0o100666",
+            "file_inode": 3096224743979895,
+            "operating_system": "nt",
+            "file_hash_md5": "914a449f9e837d756a3432df4b1eb471"
+        },
+        "statistics": {
+            "aspect_ratio_percentage": 149.84,
+            "compression_ratio_estimate": "N/A",
+            "pixel_density_category": "Ultra alta resolución (8K+)",
+            "recommended_use": "Impresión comercial, publicidad, arte digital"
+        }
+    },
+    "C:/Users/Adria/OneDrive/Imágenes/1-1.jpeg": {
+        "file_info": {
+            "filename": "1-1.jpeg",
+            "filename_without_extension": "1-1",
+            "filepath": "C:/Users/Adria/OneDrive/Imágenes/1-1.jpeg",
+            "directory": "C:/Users/Adria/OneDrive/Imágenes",
+            "drive": "C:",
+            "file_extension": "JPEG",
+            "file_format": "JPEG"
+        },
+        "file_size": {
+            "bytes": 305357,
+            "kilobytes": 298.2,
+            "megabytes": 0.29,
+            "gigabytes": 0.0003,
+            "human_readable": "298.2 KB",
+            "category": "Pequeño"
+        },
+        "image_dimensions": {
+            "width_pixels": 1400,
+            "height_pixels": 1096,
+            "resolution": "1400x1096",
+            "total_pixels": 1534400,
+            "megapixels": 1.53,
+            "resolution_category": "Resolución estándar"
+        },
+        "aspect_ratio": {
+            "decimal": 1.2774,
+            "ratio": "175:137",
+            "orientation": "Horizontal (Landscape)",
+            "is_landscape": true,
+            "is_portrait": false,
+            "is_square": false
+        },
+        "color_info": {
+            "bits_per_pixel": 32,
+            "has_alpha_channel": false,
+            "color_depth": "32 bits"
+        },
+        "timestamps": {
+            "metadata_created": "2025-11-25 07:15:37",
+            "file_modified": "2025-11-11 15:25:46",
+            "file_accessed": "2025-11-25 07:15:35",
+            "file_created_system": "2025-11-11 15:25:45",
+            "unix_timestamp_modified": 1762896346,
+            "unix_timestamp_accessed": 1764076535
+        },
+        "system_info": {
+            "file_mode": "0o100666",
+            "file_inode": 1407374883768152,
+            "operating_system": "nt",
+            "file_hash_md5": "8914257f139e4a5b1138bcfab5868e0c"
+        },
+        "statistics": {
+            "aspect_ratio_percentage": 127.74,
+            "compression_ratio_estimate": "N/A",
+            "pixel_density_category": "Resolución estándar",
+            "recommended_use": "Web estándar, redes sociales"
+        }
+    },
+    "C:/Users/Adria/OneDrive/Imágenes/ia-SORA-GEMINI-1.5.jpg": {
+        "file_info": {
+            "filename": "ia-SORA-GEMINI-1.5.jpg",
+            "filename_without_extension": "ia-SORA-GEMINI-1.5",
+            "filepath": "C:/Users/Adria/OneDrive/Imágenes/ia-SORA-GEMINI-1.5.jpg",
+            "directory": "C:/Users/Adria/OneDrive/Imágenes",
+            "drive": "C:",
+            "file_extension": "JPG",
+            "file_format": "JPG"
+        },
+        "file_size": {
+            "bytes": 191141,
+            "kilobytes": 186.66,
+            "megabytes": 0.18,
+            "gigabytes": 0.0002,
+            "human_readable": "186.66 KB",
+            "category": "Pequeño"
+        },
+        "image_dimensions": {
+            "width_pixels": 1080,
+            "height_pixels": 1080,
+            "resolution": "1080x1080",
+            "total_pixels": 1166400,
+            "megapixels": 1.17,
+            "resolution_category": "Resolución estándar"
+        },
+        "aspect_ratio": {
+            "decimal": 1.0,
+            "ratio": "1:1",
+            "orientation": "Cuadrado (Square)",
+            "is_landscape": false,
+            "is_portrait": false,
+            "is_square": true
+        },
+        "color_info": {
+            "bits_per_pixel": 32,
+            "has_alpha_channel": false,
+            "color_depth": "32 bits"
+        },
+        "timestamps": {
+            "metadata_created": "2025-11-27 07:11:47",
+            "file_modified": "2025-11-11 15:32:43",
+            "file_accessed": "2025-11-27 07:11:45",
+            "file_created_system": "2025-11-11 15:32:42",
+            "unix_timestamp_modified": 1762896763,
+            "unix_timestamp_accessed": 1764249105
+        },
+        "system_info": {
+            "file_mode": "0o100666",
+            "file_inode": 7318349394708260,
+            "operating_system": "nt",
+            "file_hash_md5": "5e730cf5374aaf4f15cfd2e712a22f6e"
+        },
+        "statistics": {
+            "aspect_ratio_percentage": 100.0,
+            "compression_ratio_estimate": "N/A",
+            "pixel_density_category": "Resolución estándar",
+            "recommended_use": "Web estándar, redes sociales"
+        }
+    },
+    "C:/Users/Adria/OneDrive/Imágenes/mycin.jpg": {
+        "file_info": {
+            "filename": "mycin.jpg",
+            "filename_without_extension": "mycin",
+            "filepath": "C:/Users/Adria/OneDrive/Imágenes/mycin.jpg",
+            "directory": "C:/Users/Adria/OneDrive/Imágenes",
+            "drive": "C:",
+            "file_extension": "JPG",
+            "file_format": "JPG"
+        },
+        "file_size": {
+            "bytes": 20095,
+            "kilobytes": 19.62,
+            "megabytes": 0.02,
+            "gigabytes": 0.0,
+            "human_readable": "19.62 KB",
+            "category": "Muy pequeño"
+        },
+        "image_dimensions": {
+            "width_pixels": 640,
+            "height_pixels": 512,
+            "resolution": "640x512",
+            "total_pixels": 327680,
+            "megapixels": 0.33,
+            "resolution_category": "Baja resolución"
+        },
+        "aspect_ratio": {
+            "decimal": 1.25,
+            "ratio": "5:4",
+            "orientation": "Horizontal (Landscape)",
+            "is_landscape": true,
+            "is_portrait": false,
+            "is_square": false
+        },
+        "color_info": {
+            "bits_per_pixel": 32,
+            "has_alpha_channel": false,
+            "color_depth": "32 bits"
+        },
+        "timestamps": {
+            "metadata_created": "2025-11-27 07:45:15",
+            "file_modified": "2025-11-11 15:26:35",
+            "file_accessed": "2025-11-27 07:45:13",
+            "file_created_system": "2025-11-11 15:26:35",
+            "unix_timestamp_modified": 1762896395,
+            "unix_timestamp_accessed": 1764251113
+        },
+        "system_info": {
+            "file_mode": "0o100666",
+            "file_inode": 3659174697398124,
+            "operating_system": "nt",
+            "file_hash_md5": "90ed5ae21884ac6005ccbf4d97a46add"
+        },
+        "statistics": {
+            "aspect_ratio_percentage": 125.0,
+            "compression_ratio_estimate": "N/A",
+            "pixel_density_category": "Baja resolución",
+            "recommended_use": "Iconos, miniaturas, web pequeña"
+        }
+    },
+    "C:/Users/Adria/OneDrive/Imágenes/images.jpg": {
+        "file_info": {
+            "filename": "images.jpg",
+            "filename_without_extension": "images",
+            "filepath": "C:/Users/Adria/OneDrive/Imágenes/images.jpg",
+            "directory": "C:/Users/Adria/OneDrive/Imágenes",
+            "drive": "C:",
+            "file_extension": "JPG",
+            "file_format": "JPG"
+        },
+        "file_size": {
+            "bytes": 4503,
+            "kilobytes": 4.4,
+            "megabytes": 0.0,
+            "gigabytes": 0.0,
+            "human_readable": "4.4 KB",
+            "category": "Muy pequeño"
+        },
+        "image_dimensions": {
+            "width_pixels": 192,
+            "height_pixels": 262,
+            "resolution": "192x262",
+            "total_pixels": 50304,
+            "megapixels": 0.05,
+            "resolution_category": "Baja resolución"
+        },
+        "aspect_ratio": {
+            "decimal": 0.7328,
+            "ratio": "96:131",
+            "orientation": "Vertical (Portrait)",
+            "is_landscape": false,
+            "is_portrait": true,
+            "is_square": false
+        },
+        "color_info": {
+            "bits_per_pixel": 32,
+            "has_alpha_channel": false,
+            "color_depth": "32 bits"
+        },
+        "timestamps": {
+            "metadata_created": "2025-11-28 14:05:18",
+            "file_modified": "2025-11-11 15:23:02",
+            "file_accessed": "2025-11-28 14:05:14",
+            "file_created_system": "2025-11-11 15:23:00",
+            "unix_timestamp_modified": 1762896182,
+            "unix_timestamp_accessed": 1764360314
+        },
+        "system_info": {
+            "file_mode": "0o100666",
+            "file_inode": 1407374883768111,
+            "operating_system": "nt",
+            "file_hash_md5": "954df2e705ca426eb49286bb1c0aa75a"
+        },
+        "statistics": {
+            "aspect_ratio_percentage": 73.28,
+            "compression_ratio_estimate": "N/A",
+            "pixel_density_category": "Baja resolución",
+            "recommended_use": "Iconos, miniaturas, web pequeña"
+        }
+    },
+    "images": {
+        "C:/Users/Adria/OneDrive/Imágenes/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg": {
+            "file_info": {
+                "filename": "evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg",
+                "filename_without_extension": "evgeny-tchebotarev-aiwuLjLPFnU-unsplash",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/evgeny-tchebotarev-aiwuLjLPFnU-unsplash.jpg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPG",
+                "file_format": "JPG"
+            },
+            "file_size": {
+                "bytes": 6502087,
+                "kilobytes": 6349.69,
+                "megabytes": 6.2,
+                "gigabytes": 0.0061,
+                "human_readable": "6.2 MB",
+                "category": "Grande"
+            },
+            "image_dimensions": {
+                "width_pixels": 6939,
+                "height_pixels": 4631,
+                "resolution": "6939x4631",
+                "total_pixels": 32134509,
+                "megapixels": 32.13,
+                "resolution_category": "Ultra alta resolución (8K+)"
+            },
+            "aspect_ratio": {
+                "decimal": 1.4984,
+                "ratio": "6939:4631",
+                "orientation": "Horizontal (Landscape)",
+                "is_landscape": true,
+                "is_portrait": false,
+                "is_square": false
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-11-26 07:25:11",
+                "file_modified": "2025-11-09 21:40:27",
+                "file_accessed": "2025-11-26 07:25:11",
+                "file_created_system": "2025-11-12 07:22:06",
+                "unix_timestamp_modified": 1762746027,
+                "unix_timestamp_accessed": 1764163511
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 3096224743979895,
+                "operating_system": "nt",
+                "file_hash_md5": "914a449f9e837d756a3432df4b1eb471"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 149.84,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Ultra alta resolución (8K+)",
+                "recommended_use": "Impresión comercial, publicidad, arte digital"
+            }
+        },
+        "C:/Users/Adria/OneDrive/Imágenes/1-1.jpeg": {
+            "file_info": {
+                "filename": "1-1.jpeg",
+                "filename_without_extension": "1-1",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/1-1.jpeg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPEG",
+                "file_format": "JPEG"
+            },
+            "file_size": {
+                "bytes": 305357,
+                "kilobytes": 298.2,
+                "megabytes": 0.29,
+                "gigabytes": 0.0003,
+                "human_readable": "298.2 KB",
+                "category": "Pequeño"
+            },
+            "image_dimensions": {
+                "width_pixels": 1400,
+                "height_pixels": 1096,
+                "resolution": "1400x1096",
+                "total_pixels": 1534400,
+                "megapixels": 1.53,
+                "resolution_category": "Resolución estándar"
+            },
+            "aspect_ratio": {
+                "decimal": 1.2774,
+                "ratio": "175:137",
+                "orientation": "Horizontal (Landscape)",
+                "is_landscape": true,
+                "is_portrait": false,
+                "is_square": false
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-11-25 07:15:37",
+                "file_modified": "2025-11-11 15:25:46",
+                "file_accessed": "2025-11-25 07:15:35",
+                "file_created_system": "2025-11-11 15:25:45",
+                "unix_timestamp_modified": 1762896346,
+                "unix_timestamp_accessed": 1764076535
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 1407374883768152,
+                "operating_system": "nt",
+                "file_hash_md5": "8914257f139e4a5b1138bcfab5868e0c"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 127.74,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Resolución estándar",
+                "recommended_use": "Web estándar, redes sociales"
+            }
+        },
+        "C:/Users/Adria/OneDrive/Imágenes/ia-SORA-GEMINI-1.5.jpg": {
+            "file_info": {
+                "filename": "ia-SORA-GEMINI-1.5.jpg",
+                "filename_without_extension": "ia-SORA-GEMINI-1.5",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/ia-SORA-GEMINI-1.5.jpg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPG",
+                "file_format": "JPG"
+            },
+            "file_size": {
+                "bytes": 191141,
+                "kilobytes": 186.66,
+                "megabytes": 0.18,
+                "gigabytes": 0.0002,
+                "human_readable": "186.66 KB",
+                "category": "Pequeño"
+            },
+            "image_dimensions": {
+                "width_pixels": 1080,
+                "height_pixels": 1080,
+                "resolution": "1080x1080",
+                "total_pixels": 1166400,
+                "megapixels": 1.17,
+                "resolution_category": "Resolución estándar"
+            },
+            "aspect_ratio": {
+                "decimal": 1.0,
+                "ratio": "1:1",
+                "orientation": "Cuadrado (Square)",
+                "is_landscape": false,
+                "is_portrait": false,
+                "is_square": true
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-11-27 07:11:47",
+                "file_modified": "2025-11-11 15:32:43",
+                "file_accessed": "2025-11-27 07:11:45",
+                "file_created_system": "2025-11-11 15:32:42",
+                "unix_timestamp_modified": 1762896763,
+                "unix_timestamp_accessed": 1764249105
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 7318349394708260,
+                "operating_system": "nt",
+                "file_hash_md5": "5e730cf5374aaf4f15cfd2e712a22f6e"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 100.0,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Resolución estándar",
+                "recommended_use": "Web estándar, redes sociales"
+            }
+        },
+        "C:/Users/Adria/OneDrive/Imágenes/mycin.jpg": {
+            "file_info": {
+                "filename": "mycin.jpg",
+                "filename_without_extension": "mycin",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/mycin.jpg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPG",
+                "file_format": "JPG"
+            },
+            "file_size": {
+                "bytes": 20095,
+                "kilobytes": 19.62,
+                "megabytes": 0.02,
+                "gigabytes": 0.0,
+                "human_readable": "19.62 KB",
+                "category": "Muy pequeño"
+            },
+            "image_dimensions": {
+                "width_pixels": 640,
+                "height_pixels": 512,
+                "resolution": "640x512",
+                "total_pixels": 327680,
+                "megapixels": 0.33,
+                "resolution_category": "Baja resolución"
+            },
+            "aspect_ratio": {
+                "decimal": 1.25,
+                "ratio": "5:4",
+                "orientation": "Horizontal (Landscape)",
+                "is_landscape": true,
+                "is_portrait": false,
+                "is_square": false
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-11-27 07:45:15",
+                "file_modified": "2025-11-11 15:26:35",
+                "file_accessed": "2025-11-27 07:45:13",
+                "file_created_system": "2025-11-11 15:26:35",
+                "unix_timestamp_modified": 1762896395,
+                "unix_timestamp_accessed": 1764251113
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 3659174697398124,
+                "operating_system": "nt",
+                "file_hash_md5": "90ed5ae21884ac6005ccbf4d97a46add"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 125.0,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Baja resolución",
+                "recommended_use": "Iconos, miniaturas, web pequeña"
+            }
+        },
+        "C:/Users/Adria/OneDrive/Imágenes/images.jpg": {
+            "file_info": {
+                "filename": "images.jpg",
+                "filename_without_extension": "images",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/images.jpg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPG",
+                "file_format": "JPG"
+            },
+            "file_size": {
+                "bytes": 4503,
+                "kilobytes": 4.4,
+                "megabytes": 0.0,
+                "gigabytes": 0.0,
+                "human_readable": "4.4 KB",
+                "category": "Muy pequeño"
+            },
+            "image_dimensions": {
+                "width_pixels": 192,
+                "height_pixels": 262,
+                "resolution": "192x262",
+                "total_pixels": 50304,
+                "megapixels": 0.05,
+                "resolution_category": "Baja resolución"
+            },
+            "aspect_ratio": {
+                "decimal": 0.7328,
+                "ratio": "96:131",
+                "orientation": "Vertical (Portrait)",
+                "is_landscape": false,
+                "is_portrait": true,
+                "is_square": false
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-11-28 14:05:18",
+                "file_modified": "2025-11-11 15:23:02",
+                "file_accessed": "2025-11-28 14:05:14",
+                "file_created_system": "2025-11-11 15:23:00",
+                "unix_timestamp_modified": 1762896182,
+                "unix_timestamp_accessed": 1764360314
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 1407374883768111,
+                "operating_system": "nt",
+                "file_hash_md5": "954df2e705ca426eb49286bb1c0aa75a"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 73.28,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Baja resolución",
+                "recommended_use": "Iconos, miniaturas, web pequeña"
+            }
+        },
+        "C:/Users/Adria/OneDrive/Imágenes/2074420.jpg": {
+            "file_info": {
+                "filename": "2074420.jpg",
+                "filename_without_extension": "2074420",
+                "filepath": "C:/Users/Adria/OneDrive/Imágenes/2074420.jpg",
+                "directory": "C:/Users/Adria/OneDrive/Imágenes",
+                "drive": "C:",
+                "file_extension": "JPG",
+                "file_format": "JPG"
+            },
+            "file_size": {
+                "bytes": 495504,
+                "kilobytes": 483.89,
+                "megabytes": 0.47,
+                "gigabytes": 0.0005,
+                "human_readable": "483.89 KB",
+                "category": "Pequeño"
+            },
+            "image_dimensions": {
+                "width_pixels": 1024,
+                "height_pixels": 658,
+                "resolution": "1024x658",
+                "total_pixels": 673792,
+                "megapixels": 0.67,
+                "resolution_category": "Resolución estándar"
+            },
+            "aspect_ratio": {
+                "decimal": 1.5562,
+                "ratio": "512:329",
+                "orientation": "Horizontal (Landscape)",
+                "is_landscape": true,
+                "is_portrait": false,
+                "is_square": false
+            },
+            "color_info": {
+                "bits_per_pixel": 32,
+                "has_alpha_channel": false,
+                "color_depth": "32 bits"
+            },
+            "timestamps": {
+                "metadata_created": "2025-12-01 19:09:48",
+                "file_modified": "2025-11-11 15:28:29",
+                "file_accessed": "2025-12-01 19:09:43",
+                "file_created_system": "2025-11-11 15:28:28",
+                "unix_timestamp_modified": 1762896509,
+                "unix_timestamp_accessed": 1764637783
+            },
+            "system_info": {
+                "file_mode": "0o100666",
+                "file_inode": 7881299348023514,
+                "operating_system": "nt",
+                "file_hash_md5": "ab488477ab9d54922cf0082f341e898f"
+            },
+            "statistics": {
+                "aspect_ratio_percentage": 155.62,
+                "compression_ratio_estimate": "N/A",
+                "pixel_density_category": "Resolución estándar",
+                "recommended_use": "Web estándar, redes sociales"
+            }
+        }
+    },
+    "total_images": 6,
+    "last_updated": "2025-12-01 19:09:48"
+}
